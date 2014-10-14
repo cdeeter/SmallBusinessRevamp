@@ -24,6 +24,7 @@ h1, h2 {
     background-color: black;
     text-align: center;
     padding: 20px;
+    overflow: auto;
 }
 
 .color {
