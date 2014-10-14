@@ -1,0 +1,89 @@
+body {
+    background-color: black;
+    text-align: center;
+    height: 100%;
+}
+
+
+.banner {
+    height: 100%;
+    width: 100%;
+    min-height: 600px;
+    background-image: url('images/records.jpg');
+}
+
+h1, h2 {
+    text-align: center;
+    padding: 10px;
+}
+
+.block {
+    height: 100%;
+    width: 100%;
+    min-height: 650px;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.color {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    height: 100%;
+}
+
+#logo-bar {
+    color: yellow;
+}
+
+.newsletter {
+    border: 1px solid yellow;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.input-group {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.color h1 {
+    color: black;
+}
+
+.store {
+    height: 400px;
+    width: 500px;
+    padding: 15px;
+}
+
+
+.facebook {
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	padding: 5px;
+}
+
+.twitter {
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	padding: 5px; 
+}
+
+.instagram {
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	padding: 5px;
+}
+
+.email {
+	height: 20px;
+	width: 150px;
+
+}
