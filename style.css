@@ -51,14 +51,13 @@ h1, h2 {
     text-align: center;
 }
 
-.color h1 {
+.color h1, .color h2 {
     color: black;
 }
 
 .store {
-    height: 400px;
-    width: 500px;
-    padding: 50px;
+    height: 290px;
+    width: 400px;
 }
 
 
@@ -87,4 +86,13 @@ h1, h2 {
 	height: 20px;
 	width: 150px;
 
+}
+
+.icon {
+    height: 75px;
+    width: 75px;
+    font-size: 250%;
+    border-radius: 50%;
+    border: 1px solid black;
+    padding-top: 15px;
 }
